@@ -3,7 +3,7 @@ import math
 import logging
 import logging.config
 from aiohttp import web
-from CYNITE import web_server
+from Latest HD Movies import web_server
 
 # Get logging configurations
 logging.config.fileConfig('logging.conf')
@@ -34,7 +34,7 @@ class Bot(Client):
             api_hash=API_HASH,
             bot_token=BOT_TOKEN,
             workers=50,
-            plugins={"root": "CYNITE"},
+            plugins={"root": "Latest HD Movies"},
             sleep_threshold=5,
         )
 

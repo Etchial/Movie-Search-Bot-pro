@@ -50,7 +50,7 @@ MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 # Custom Chats
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', "-1001527195908"))
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', "-1001307954717"))
-FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 'https://t.me/Latest_HD_Movies_Download_Hindi')
+FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 'https://t.me/+e8fUGj8A3Zc4NmY1')
 HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', '')
 
 # Log Channels

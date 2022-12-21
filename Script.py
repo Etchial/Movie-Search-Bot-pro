@@ -1,4 +1,4 @@
- class script(object):
+class script(object):
     START_TXT = """ʜᴇʟʟᴏ {}
 
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ᴀɴᴅ sᴇʀɪᴇs,
